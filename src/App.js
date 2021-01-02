@@ -9,7 +9,7 @@ import NewProduct from './components/products/newproduct';
 import UpdateProduct from './components/products/UpdateProduct';
 import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
-import { ToastContainer, toast } from 'react-toastify';
+//import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Footer from './Footer';
 function App() {
