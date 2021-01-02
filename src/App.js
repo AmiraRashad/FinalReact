@@ -16,7 +16,6 @@ function App() {
   return (
     <Router>
     <div>
-    <ToastContainer/>
     <TopBar/>
       <div style={{padding:"10px"}}>
       <Switch>
